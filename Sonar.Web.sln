@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sonar.Web", "Sonar.Web\Sonar.Web.csproj", "{DDF5838A-0FD4-470C-A58A-76DCBE7F4B85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sonar.Tests", "Sonar.Tests\Sonar.Tests.csproj", "{9E7483E1-925A-4A09-8621-9CD59B442856}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDF5838A-0FD4-470C-A58A-76DCBE7F4B85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF5838A-0FD4-470C-A58A-76DCBE7F4B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF5838A-0FD4-470C-A58A-76DCBE7F4B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF5838A-0FD4-470C-A58A-76DCBE7F4B85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E7483E1-925A-4A09-8621-9CD59B442856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E7483E1-925A-4A09-8621-9CD59B442856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E7483E1-925A-4A09-8621-9CD59B442856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E7483E1-925A-4A09-8621-9CD59B442856}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2380B74A-E647-4936-92DF-A0209B9760E6}
+	EndGlobalSection
+EndGlobal
